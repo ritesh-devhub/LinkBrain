@@ -27,7 +27,7 @@ LinkBrain converts saved web content into a personal AI knowledge base. Instead 
 ## 📸 Demo
 
 ### Add a URL
-![Add URL](assets/homepage.png)
+![Add URL](assets/add_url.png)
 
 ### Ask Questions
 ![Ask Questions](assets/query_ans.png)
