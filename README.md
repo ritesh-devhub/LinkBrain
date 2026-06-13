@@ -36,12 +36,12 @@ LinkBrain converts saved web content into a personal AI knowledge base. Instead 
 ### Core Workflow
 
 <p align="center">
-  <img src="assets/add_url.png" width="48%" height="500">
-  <img src="assets/query_ans.png" width="48%" height="500">
+  <img src="assets/add_url.png" width="49%">
+  <img src="assets/query_ans.png" width="49%">
 </p>
 
 <p align="center">
-  <em>Left: URL Ingestion &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Right: AI-Powered Question Answering</em>
+  <em>Left: URL Ingestion &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Right: AI-Powered Question Answering</em>
 </p>
 
 
