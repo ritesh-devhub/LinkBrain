@@ -24,13 +24,27 @@ We save articles, blogs, PDFs, and resources every day, but finding useful infor
 LinkBrain converts saved web content into a personal AI knowledge base. Instead of manually searching through bookmarks, users can ask questions in natural language and receive grounded answers generated from their own saved content.
 
 ---
+
 ## 📸 Demo
 
-### Add a URL
-![Add URL](assets/add_url.png)
+### Homepage
 
-### Ask Questions
-![Ask Questions](assets/query_ans.png)
+<p align="center">
+  <img src="assets/homepage.png" width="900">
+</p>
+
+### Core Workflow
+
+<p align="center">
+  <img src="assets/add_url.png" width="48%">
+  <img src="assets/query_ans.png" width="48%">
+</p>
+
+<p align="center">
+  <em>Left: URL Ingestion &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Right: AI-Powered Question Answering</em>
+</p>
+
+
 ## ✨ Features
 
 - 🔗 Save content directly from URLs
